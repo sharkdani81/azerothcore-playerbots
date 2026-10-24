@@ -1,0 +1,14 @@
+*.gif binary
+docs/index.html linguist-vendored
+*.svg text
+*.png binary
+
+*.map linguist-generated
+* text=auto
+docs/**/*.html linguist-vendored
+*.yml linguist-detectable=false
+src/**/*.tsx linguist-detectable
+*.ico binary
+*.tsx linguist-detectable
+
+# eof 999d3779
