@@ -1,0 +1,9 @@
+*.tgz
+yarn-error.log*
+npm-debug.log*
+.env
+node_modules/
+dist/
+coverage/
+.env.local
+.DS_Store
